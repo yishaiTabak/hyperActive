@@ -106,6 +106,7 @@ function exitEmailModalListener(emailModal) {
     emailModal.classList.add("none");
   });
 }
+///xOJAnU8GVbLfCrd1klthtLP+ZcOxkhz47XG1Tb6FYpo
 function changePlaceholders(nameInput, phoneInput, emailInput) {
   if (!isNameInputValid(nameInput.value))
     changePlaceholder(nameInput, "*נא להזין שם תקין")
